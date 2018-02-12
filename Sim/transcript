@@ -1,0 +1,57 @@
+# Reading C:/questasim_10.1d/tcl/vsim/pref.tcl 
+# //  Questa Sim
+# //  Version 10.1d win32 Nov  1 2012
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# OpenFile C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab6/Q3/Sim/l6q3.mpf 
+# Loading project l6q3
+vsim -novopt l6q3
+# vsim -novopt l6q3 
+# Loading work.l6q3
+# Loading work.dff1
+# Loading work.dff2
+# Loading work.xor2
+vsim -novopt tb
+# vsim -novopt tb 
+# Loading work.tb
+# Loading work.l6q3
+# Loading work.dff1
+# Loading work.dff2
+# Loading work.xor2
+add wave *
+# Compile of l6q3.v was successful.
+restart -f
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab6/Q3/Sim/work.tb
+# Loading work.tb
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab6/Q3/Sim/work.l6q3
+# Loading work.l6q3
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab6/Q3/Sim/work.dff1
+# Loading work.dff1
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab6/Q3/Sim/work.dff2
+# Loading work.dff2
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab6/Q3/Sim/work.xor2
+# Loading work.xor2
+run 150
+run 150
+run 150
+run 150
+run 150
+# Compile of l6q3.v was successful.
+restart -f
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab6/Q3/Sim/work.tb
+# Loading work.tb
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab6/Q3/Sim/work.l6q3
+# Loading work.l6q3
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab6/Q3/Sim/work.dff1
+# Loading work.dff1
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab6/Q3/Sim/work.dff2
+# Loading work.dff2
+# Refreshing C:/Users/Admin/Desktop/VERILOG/Lab_Work/B/Lab6/Q3/Sim/work.xor2
+# Loading work.xor2
+run 150
